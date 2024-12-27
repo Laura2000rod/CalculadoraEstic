@@ -1,0 +1,25 @@
+﻿h1 {
+    color: deepskyblue;
+    background-color:grey;
+}
+
+h2 {
+    color: darkslategrey;
+    background-color: lightgreen;
+}
+
+p {
+    color: blueviolet;
+    background-color: lightpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#Parrafo1 {
+    color: coral;
+    background-color: navajowhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+input{
+    background-color: skyblue
+}
